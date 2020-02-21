@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Userplay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10sp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="TRY THIS!"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="25dp" />
+
+        <TableLayout
+            android:id="@+id/table"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9">
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+
+                <EditText
+                    style="@style/test"
+                    android:digits="0123456789"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:text="@string/dis" />
+            </TableRow>
+
+        </TableLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10sp"
+                android:background="@color/darkred"
+                android:text="CHECK"
+                android:textColor="@color/white"
+                android:onClick="CheckOnSubmit"/>
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button"
+                android:background="@color/blue"
+                android:text="RANDOM SUDOKU"
+                android:textColor="@color/white"
+                android:onClick="RandomSudokuOnSubmit"/>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
